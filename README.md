@@ -1,5 +1,7 @@
 # OpentokAndroidVideoChat
 
+Check the demo app here:- https://play.google.com/store/apps/details?id=com.videochat.dharamvir.syncphonecontactwithserver
+
 <b> Android app completely based on Opentok platform and supports audio/video call. Following are the main highlights of this app:</b>
 
 1) User authentication using Phone number verification(Firebase SDK)  
